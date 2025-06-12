@@ -1,0 +1,17 @@
+As the associate on your team, you are tasked with creating a product roadmap to place key activities on a timeline to share with the client. The product roadmap is used to build the Minimum Viable Product (MVP). The MVP essentially is the minimum feature required to solve the core business problem. It is a great way to get a lower fidelity product out that solves pain points while also being able to test out the product further, gather feedback, and take more time in building out enhancements. Any features built on top of the MVP are considered post-MVP, and for this stage, a team continually iterates on it during the life of the product.
+
+By this point, you have already completed a part of the roadmap, the discovery. Normally the roadmap is created before any of the work is scoped out, but for this exercise, we are doing this activity after the business requirements are set.
+
+In a roadmap, you do not focus on every single step required to get to an MVP; instead, you strategize at a high level. You aren’t expected to know all the technical aspects of upgrading the enterprise resource planning (ERP) system into a single global integrated platform; just know that technical inputs would be needed. Ideally, you would collaborate on the roadmap with other tech teams to confirm you are putting together reasonable timelines for the work. In this task, you are making the first attempt at creating the roadmap. Assume that after you share this with your team, the tech and design teams will be asked to provide feedback on the roadmap you created.
+
+Provided below are the key phases along the project timeline to deliver the MVP for the upgraded enterprise resources planning system in our example. Various teams must accomplish some key tasks specific to each project phase before releasing the product. In the template provided below, there are blue boxes signifying each project phase. You are tasked with adding sample activities during each phase of the roadmap. Pay close attention to the timeline and think through which initiatives should go in what order. The milestones are marked with stars.
+
+Plan - Planning activities for various phases of the project
+Design - Design related activities for workshops, interviews etc.
+Build - Development activities for MVP
+Test - Test to confirm the system is built as expected 
+Train - Train the client on new system
+Release/Go-live
+Post Release/Go-live - Provide support after the system is released/live
+Once you’ve filled in the roadmap with the above inputs, submit it below as a PDF.
+
