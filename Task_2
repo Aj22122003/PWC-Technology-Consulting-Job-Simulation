@@ -1,0 +1,31 @@
+After your discovery workshop with an international manufacturing company that specializes in building materials and plumbing equipment, you understand the current enterprise resource planning (ERP) system and the need for the system upgrade. You also understand the client’s pain points and where they are looking for your help.
+
+By understanding the pain points, you can pinpoint what requirements will alleviate that pain. That is why your manager has tasked you with taking those problem statements and translating them into requirements in user stories.
+Using the template provided below, write out business requirements as a user story. A user story is the smallest unit of work in an agile framework. A user story is an informal, general explanation of a software feature written from the perspective of the end-user or customer. Be sure to create a separate user story for each requirement (you can put them in the same document).
+
+The first part of a user story is the “why.” This is meant to show what the user wants based on the problem they are facing. The acceptance criteria in the template are the factors that need to be validated after the feature is built to confirm that the solution meets the requirements. Neither of these parts are meant to be technical. They could be shown to executives or anyone on the business side and be easily understood. 
+Below are the business problems that you discovered after your client discovery workshop. These are pain points. You need to take these and make them into requirements that can be written as a user story. The user story for the first business problem has been filled in for you as a reference. Each business problem should be translated into a requirement and then a story. 
+
+The ERP systems are in scope for the upgrade
+Security standards to be put in place
+Requirements for SOX controls to be put in place
+Timeline for implementing the upgrade
+An article is provided in the resources, which gives more information on the Gherkin method of writing user stories. Please refer to that if you want to learn more, with examples, about how to write user stories.  
+
+User Story Template
+ 
+Example from Business Problem #1
+ 
+Why
+As a compliance officer,
+I want to see that a manager is not able to approve the same Purchase Order that was also initially created by him/her,
+So that there isn’t any conflict of responsibilities for someone to approve their own PO.
+ 
+Acceptance Criteria
+Given I am a compliance officer,
+When I am trying to analyze any Segregation of Duties (SOD) issues in the system,
+Then I need to receive notifications immediately and automatically if any such violations are performed,
+And I shouldn’t have to wait for the periodic manual monitoring to determine if a risky transaction has occurred.
+
+https://userpilot.com/blog/user-stories-templates/
+
